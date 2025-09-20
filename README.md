@@ -7,4 +7,4 @@ Decription: Penguins
 
 Description: UK ACCIDENT 
 
-[ACTIVITY 2] 
+[ACTIVITY 2] (https://github.com/jpemrdora17/ELEC303_DATA_ANALYTICS-COMPILATION/blob/main/activity2.ipynb)
