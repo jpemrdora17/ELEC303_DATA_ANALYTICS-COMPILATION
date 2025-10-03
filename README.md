@@ -11,4 +11,4 @@ Description: UK ACCIDENT
 
 Description: Chicago Crimes 
 
-[MIDTERM HANDS-ON] ()
+[MIDTERM HANDS-ON] (https://colab.research.google.com/drive/1iqWrTNgzDoRTv4d4hAt-6f6oKPeFiG7z?usp=sharing)
