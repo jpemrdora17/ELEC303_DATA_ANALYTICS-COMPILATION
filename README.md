@@ -20,3 +20,7 @@ Description: Dengue Data
 
 [FINALS ACT1](https://github.com/jpemrdora17/ELEC03-ACTNO1_FINALS)
 
+Description: Assignment Salary Prediction
+
+[Assignment] ()
+
