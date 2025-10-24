@@ -12,3 +12,11 @@ Description: UK ACCIDENT
 Description: Chicago Crimes 
 
 [MIDTERM HANDS-ON] (https://colab.research.google.com/drive/1iqWrTNgzDoRTv4d4hAt-6f6oKPeFiG7z?usp=sharing)
+
+
+# Finals activity
+
+Description: Dengue Data 
+
+[FINALS ACT1](https://github.com/jpemrdora17/ELEC03-ACTNO1_FINALS)
+
