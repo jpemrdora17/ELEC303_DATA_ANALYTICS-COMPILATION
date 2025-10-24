@@ -22,5 +22,5 @@ Description: Dengue Data
 
 Description: Assignment Salary Prediction
 
-[Assignment] ()
+[Assignment] (https://github.com/jpemrdora17/Assignment_Finals/blob/main/LinearRegression_Assignment.ipynb)
 
